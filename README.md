@@ -1,5 +1,5 @@
 # git-goup-2
-Travailler en groupe
+Travailler en groupe (git-group-2)
 
 ## 1. Créer un dépôt sur GitHub
 
